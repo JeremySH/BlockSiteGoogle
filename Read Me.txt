@@ -1,5 +1,5 @@
-SiteBlockGoogle is a BlockSite import file that blocks every google-owned domain. Use it to find out how much Google
-you have in your online life, or to get Google out of it.
+SiteBlockGoogle is a BlockSite import file that blocks every google-owned domain. Use 
+it to find out how much Google you have in your online life, or to get Google out of it.
 
 You need Firefox and the BlockSite extension for this to have any use.
 https://addons.mozilla.org/en-US/firefox/addon/blocksite/
